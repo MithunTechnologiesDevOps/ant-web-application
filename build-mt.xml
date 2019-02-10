@@ -3,7 +3,7 @@
 
 	<property file="./build.properties" />
 	
-	<target name="init" depends="prepare,compile,war" description="Clean work dirs, then compile and create a WAR then create the EAR">
+	<target name="init" depends="prepare,compile,war" description="Clean work directories, then compile and create a WAR then create the EAR">
 		<echo> Build completed for ${project.name} </echo>
 	</target>
 	
