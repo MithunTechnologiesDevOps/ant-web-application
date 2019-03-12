@@ -19,7 +19,7 @@ public class SampleController {
 	String uploadImage(HttpServletRequest request, HttpServletResponse response, HttpSession httpSession)
 			throws JSONException {
 		JSONObject js = new JSONObject();
-		js.put("Name", "Mithun Reddy");
+		js.put("Name", "Mithun Reddy Lacchannagari");
 		js.put("Calling Name", "Munna");
 		js.put("DOB", "08-Nov-2011");
 		js.put("Hobbies", "Drawing, Dancing");
