@@ -21,7 +21,7 @@
 		Martha Halli,Opp To Madhurai Iddly House,
 		Bangalore, Karnataka, India.
 		+91-9980923226.
-		devopstrainingblr@gmail.com
+		devopstrainingblr@gmail.com, info@mithuntechnologies.com
 	</span>
 </div>
 <hr>
